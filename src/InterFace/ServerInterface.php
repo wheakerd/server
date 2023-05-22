@@ -14,8 +14,5 @@ interface ServerInterface
      */
     public const SERVER_WEBSOCKET = 2;
 
-    /**
-     * HTTP 服务器
-     */
     public const SERVER_BASE = 3;
 }
